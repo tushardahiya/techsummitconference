@@ -62,7 +62,7 @@ const about = () => (
                 </div>
            </div>
 
-            <div class="footer-copyright text-center py-3">© 2020 Copyright:
+            <div class="footer-copyright text-center py-3">© for educational puposes| not for personal use:
                 <a href="https://github.com/tushardahiya"> tushar</a>
             </div>
         </div>
